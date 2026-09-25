@@ -3,6 +3,7 @@ V tomto projekte zameranom na analýzu a prognózovanie výmenného kurzu menov�
 
 ### Zdroje dát:
 ECB - údaje pre EU
+
 Fred - údaje pre USA
 
 
